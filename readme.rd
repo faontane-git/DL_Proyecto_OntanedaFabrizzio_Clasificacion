@@ -1,4 +1,4 @@
-# 📦 Proyecto de Deep Learning - Comparación de Modelos con FashionMNIST
+#Proyecto de Deep Learning - Comparación de Modelos con FashionMNIST
 
 ## 🔀 Ruta Elegida y Dataset
 Este proyecto corresponde a la ruta de **Transfer Learning (Clasificación)** usando el dataset [**FashionMNIST**](https://pytorch.org/vision/stable/generated/torchvision.datasets.FashionMNIST.html), que contiene imágenes en escala de grises (28x28 px) de artículos de moda, distribuidas en 10 clases.  
